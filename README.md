@@ -203,14 +203,3 @@ npm run build
 
 ---
 
-## 📄 License
-
-This project is licensed under the ISC License.
-
----
-
-## 👨‍💻 Author
-
-Developed by the Foodie Team.
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
